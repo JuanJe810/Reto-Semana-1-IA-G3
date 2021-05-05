@@ -66,7 +66,7 @@ Ventajas SaaS
 
 **-Sin CapEx:** Los usuarios no tienen costos iniciales.
 
--**Agilidad:** Los usuarios pueden proporcionar al personal acceso al software más reciente de forma rápida y sencilla.
+- **Agilidad:** Los usuarios pueden proporcionar al personal acceso al software más reciente de forma rápida y sencilla.
 
 -**Modelo de precios de pago por uso:** Los usuarios pagan por el software que usan en un modelo de suscripción, generalmente mensual o anualmente, independientemente de cuánto usen el software.
 
