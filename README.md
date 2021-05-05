@@ -64,7 +64,7 @@ PaaS ofrece los mismos beneficios y consideraciones que IaaS, pero hay algunos b
 Ventajas SaaS
 ---------------------------------------
 
--**Sin CapEx:** Los usuarios no tienen costos iniciales.
+**-Sin CapEx:** Los usuarios no tienen costos iniciales.
 
 -**Agilidad:** Los usuarios pueden proporcionar al personal acceso al software más reciente de forma rápida y sencilla.
 
