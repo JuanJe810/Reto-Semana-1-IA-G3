@@ -1,5 +1,6 @@
 # Reto-Semana-1-IA-G3
 Reto Master Semana 1 Innovaccion Virtual
+![image](https://user-images.githubusercontent.com/83617819/117195581-0d5acf00-adab-11eb-917a-96b5309e3e65.png)
 
 
 # Conceptos
