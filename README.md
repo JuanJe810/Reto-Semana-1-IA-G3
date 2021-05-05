@@ -89,3 +89,23 @@ trabajan los usuarios. Debido a que está utilizando software tal como está, no
 qué plataforma SaaS es la más adecuada para una carga de trabajo, asegúrese de considerar las necesidades comerciales y las limitaciones 
 de software.
 ```
+
+
+# Tipos de Nube
+
+Pública
+------------------------------
+> Los servicios se ofrecen a través de la Internet pública y están disponibles para cualquier persona que desee adquirirlos. Los recursos en la nube, como los servidores y el almacenamiento, son propiedad y están operados por un proveedor de servicios en la nube externo y se entregan a través de Internet.
+
+Privada
+------------------------------
+> Una nube privada consta de recursos informáticos utilizados exclusivamente por usuarios de una empresa u organización. Una nube privada puede estar ubicada físicamente en el centro de datos en el sitio (local) de su organización, o puede estar alojada por un proveedor de servicios externo.
+
+Híbrida
+-----------------------------
+> Una nube híbrida es un entorno informático que combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se compartan entre ellos.
+
+![image](https://user-images.githubusercontent.com/83617819/117199348-b6a3c400-adaf-11eb-9be6-7ee512218301.png)
+
+![image](https://user-images.githubusercontent.com/83617819/117199376-bdcad200-adaf-11eb-8573-148d5624d68a.png)
+
