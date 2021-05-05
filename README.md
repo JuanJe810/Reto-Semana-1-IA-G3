@@ -60,14 +60,13 @@ PaaS ofrece los mismos beneficios y consideraciones que IaaS, pero hay algunos b
 
 - **Productividad:** Los usuarios pueden centrarse únicamente en el desarrollo de aplicaciones, porque el proveedor de la nube se encarga de toda la gestión de la plataforma. Trabajar con equipos distribuidos como servicios es más fácil porque se accede a la plataforma a través de Internet. Puede hacer que la plataforma esté disponible globalmente más fácilmente.
 
-Desventajas
+Desventaja
 --------------------------------
 ```
-Limitaciones de la plataforma.** Puede haber algunas limitaciones en una plataforma en la nube que podrían afectar la forma en que 
+Limitaciones de la plataforma. Puede haber algunas limitaciones en una plataforma en la nube que podrían afectar la forma en que 
 se ejecuta una aplicación. Cuando evalúe qué plataforma PaaS es la más adecuada para una carga de trabajo, asegúrese de tener en 
 cuenta las limitaciones en esta área.
 ```
-
 
 Ventajas SaaS
 ---------------------------------------
@@ -81,3 +80,12 @@ Ventajas SaaS
 - **Habilidades:** No se requieren habilidades técnicas profundas para implementar, usar y obtener los beneficios de SaaS.
 
 - **Flexibilidad:** Los usuarios pueden acceder a los mismos datos de la aplicación desde cualquier lugar.
+
+Desventaja
+--------------------------------
+```
+Limitaciones de software . Puede haber algunas limitaciones en una aplicación de software que podrían afectar la forma en que 
+trabajan los usuarios. Debido a que está utilizando software tal como está, no tiene control directo de las funciones. Cuando evalúe 
+qué plataforma SaaS es la más adecuada para una carga de trabajo, asegúrese de considerar las necesidades comerciales y las limitaciones 
+de software.
+```
