@@ -3,7 +3,7 @@ Reto Master Semana 1 Innovaccion Virtual
 ![image](https://user-images.githubusercontent.com/83617819/117195581-0d5acf00-adab-11eb-917a-96b5309e3e65.png)
 
 
-# Conceptos
+# Servicios en la Nube
 
 IaaS
 ----------------------------------------
@@ -104,8 +104,6 @@ Privada
 Híbrida
 -----------------------------
 > Una nube híbrida es un entorno informático que combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se compartan entre ellos.
-
-![image](https://user-images.githubusercontent.com/83617819/117199348-b6a3c400-adaf-11eb-9be6-7ee512218301.png)
 
 ![image](https://user-images.githubusercontent.com/83617819/117199376-bdcad200-adaf-11eb-8573-148d5624d68a.png)
 
