@@ -63,10 +63,9 @@ PaaS ofrece los mismos beneficios y consideraciones que IaaS, pero hay algunos b
 Desventajas
 --------------------------------
 ```
-Limitaciones de la plataforma.** Puede haber algunas limitaciones en una plataforma en la nube que podrían afectar la forma en que se ejecuta una aplicación. Cuando evalúe qué plataforma PaaS es la más adecuada para una carga de trabajo, asegúrese de tener en cuenta las limitaciones en esta área.
-
-
-
+Limitaciones de la plataforma.** Puede haber algunas limitaciones en una plataforma en la nube que podrían afectar la forma en que 
+se ejecuta una aplicación. Cuando evalúe qué plataforma PaaS es la más adecuada para una carga de trabajo, asegúrese de tener en 
+cuenta las limitaciones en esta área.
 ```
 
 
